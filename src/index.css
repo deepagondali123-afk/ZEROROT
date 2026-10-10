@@ -1,0 +1,3 @@
+@import "tailwindcss";
+@theme{--color-forest:#1f4d36;--color-moss:#5b8a4a;--color-sage:#dfe9d8;--color-cream:#f8f6f0;}
+body{background:#f8f6f0;color:#1c2b22;font-family:system-ui,sans-serif}
